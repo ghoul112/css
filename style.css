@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Satisfy&display=swap');
+header{
+    display: inline;
+}
+body{
+    font-family: "Roboto";
+    background-image: url(desktop-wallpaper-restaurant-menu-menu.jpg);
+    margin: 100px;
+}
+img:hover{
+    width: 300px;
+    transition-duration: 1s;
+}
+td:hover{
+    width: 300px;
+    transition-duration: 1s;
+}
+td{
+    text-align: center;
+}
+footer{
+    color: orange;
+    font-family: "madimi";
+
+}
+#titre{
+    font-weight: bolder;
+    box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+    -webkit-box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+}
+img{
+    box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+    -webkit-box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 8px 42px 80px 0px rgba(0,0,0,0.16);
+
+}
+
+font{
+    font-weight: 200;
+}
